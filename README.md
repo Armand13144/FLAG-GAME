@@ -1,5 +1,5 @@
 # Flag-game
-<!DOCTYPE html>
+<!By Armand After 2h >
 <html lang="en">
 <head>
     <meta charset="UTF-8">
